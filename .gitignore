@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+# cockpit files
+storage
+config
+install
+assets/lib
+assets/polyfills
+Dockerfile
+
+# locals
+.DS_Store
